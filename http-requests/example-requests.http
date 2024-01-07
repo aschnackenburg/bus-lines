@@ -1,0 +1,9 @@
+GET http://localhost:8080/buslines
+
+###
+GET http://localhost:8080/buslines/201
+
+###
+GET http://localhost:8080/buslines/9999
+
+###
